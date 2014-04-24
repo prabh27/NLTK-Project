@@ -1,0 +1,1544 @@
+0.1
+Kumar to Guptill
+no run
+0.2
+Kumar to Guptill
+no run
+0.3
+Kumar to Guptill
+two runs
+0.4
+Kumar to Guptill
+no run
+0.5
+Kumar to Guptill
+one runs
+0.6
+Kumar to Ryder
+four runs
+1.1
+Mohammed Shami to Guptill
+no run
+1.2
+Mohammed Shami to Guptill
+no run
+1.3
+Mohammed Shami to Guptill
+no run
+1.4
+Mohammed Shami to Guptill
+no run
+1.5
+Mohammed Shami to Guptill
+one runs
+1.6
+Mohammed Shami to Ryder
+no run
+2.1
+Kumar to Guptill
+no run
+2.2
+Kumar to Guptill
+no run
+2.3
+Kumar to Guptill
+no run
+2.4
+Kumar to Guptill
+no run
+2.5
+Kumar to Guptill
+no run
+2.6
+Kumar to Guptill
+no run
+3.1
+Mohammed Shami to Ryder
+two runs
+3.2
+Mohammed Shami to Ryder
+four runs
+3.3
+Mohammed Shami to Ryder
+four runs
+3.4
+Mohammed Shami to Ryder
+no run
+3.5
+Mohammed Shami to Ryder
+one runs
+3.5
+Mohammed Shami to Ryder
+one runs
+3.6
+Mohammed Shami to Guptill
+no run
+4.1
+Kumar to Ryder
+no run
+4.2
+Kumar to Ryder
+one runs
+4.3
+Kumar to Guptill
+no run
+4.4
+Kumar to Guptill
+no run
+4.5
+Kumar to Guptill
+no run
+4.6
+Kumar to Guptill
+no run
+5.1
+Mohammed Shami to Ryder
+four runs
+5.2
+Mohammed Shami to Ryder
+out runs
+5.3
+Mohammed Shami to Williamson
+no run
+5.4
+Mohammed Shami to Williamson
+one runs
+5.5
+Mohammed Shami to Guptill
+one runs
+5.6
+Mohammed Shami to Williamson
+one runs
+6.1
+Kumar to Williamson
+no run
+6.2
+Kumar to Williamson
+no run
+6.3
+Kumar to Williamson
+two runs
+6.4
+Kumar to Williamson
+one runs
+6.5
+Kumar to Guptill
+four runs
+6.6
+Kumar to Guptill
+four runs
+7.1
+Mohammed Shami to Williamson
+two runs
+7.2
+Mohammed Shami to Williamson
+no run
+7.3
+Mohammed Shami to Williamson
+no run
+7.4
+Mohammed Shami to Williamson
+no run
+7.5
+Mohammed Shami to Williamson
+two runs
+7.6
+Mohammed Shami to Williamson
+four runs
+8.1
+I Sharma to Guptill
+four runs
+8.2
+I Sharma to Guptill
+one runs
+8.2
+I Sharma to Guptill
+no run
+8.3
+I Sharma to Guptill
+one runs
+8.4
+I Sharma to Williamson
+no run
+8.5
+I Sharma to Williamson
+no run
+8.6
+I Sharma to Williamson
+no run
+9.1
+Kumar to Guptill
+no run
+9.2
+Kumar to Guptill
+no run
+9.3
+Kumar to Guptill
+no run
+9.4
+Kumar to Guptill
+no run
+9.5
+Kumar to Guptill
+no run
+9.6
+Kumar to Guptill
+one runs
+10.1
+I Sharma to Guptill
+no run
+10.2
+I Sharma to Guptill
+no run
+10.3
+I Sharma to Guptill
+one runs
+10.4
+I Sharma to Williamson
+no run
+10.5
+I Sharma to Williamson
+no run
+10.6
+I Sharma to Williamson
+one runs
+11.1
+Jadeja to Williamson
+one runs
+11.2
+Jadeja to Guptill
+no run
+11.3
+Jadeja to Guptill
+one runs
+11.4
+Jadeja to Williamson
+no run
+11.5
+Jadeja to Williamson
+one runs
+11.6
+Jadeja to Guptill
+no run
+12.1
+I Sharma to Williamson
+no run
+12.2
+I Sharma to Williamson
+3 runs
+12.3
+I Sharma to Guptill
+one runs
+12.4
+I Sharma to Williamson
+one runs
+12.5
+I Sharma to Guptill
+no run
+12.6
+I Sharma to Guptill
+six runs
+13.1
+Jadeja to Williamson
+no run
+13.2
+Jadeja to Williamson
+four runs
+13.3
+Jadeja to Williamson
+four runs
+13.4
+Jadeja to Williamson
+no run
+13.5
+Jadeja to Williamson
+no run
+13.6
+Jadeja to Williamson
+one runs
+14.1
+Kohli to Williamson
+one runs
+14.2
+Kohli to Guptill
+no run
+14.3
+Kohli to Guptill
+one runs
+14.4
+Kohli to Williamson
+no run
+14.5
+Kohli to Williamson
+no run
+14.6
+Kohli to Williamson
+four runs
+15.1
+Jadeja to Guptill
+no run
+15.2
+Jadeja to Guptill
+one runs
+15.3
+Jadeja to Williamson
+one runs
+15.4
+Jadeja to Guptill
+no run
+15.5
+Jadeja to Guptill
+four runs
+15.6
+Jadeja to Guptill
+one runs
+16.1
+Kohli to Guptill
+no run
+16.2
+Kohli to Guptill
+four runs
+16.3
+Kohli to Guptill
+one runs
+16.4
+Kohli to Williamson
+no run
+16.5
+Kohli to Williamson
+one runs
+16.6
+Kohli to Guptill
+no run
+
+
+
+ <p class="commsText">
+Ben: "It might work on other teams
+17.1
+Ashwin to Williamson
+one runs
+17.2
+Ashwin to Guptill
+no run
+17.3
+Ashwin to Guptill
+no run
+17.4
+Ashwin to Guptill
+no run
+17.5
+Ashwin to Guptill
+one runs
+17.6
+Ashwin to Williamson
+one runs
+18.1
+Raina to Williamson
+one runs
+18.2
+Raina to Guptill
+one runs
+18.3
+Raina to Williamson
+one runs
+18.4
+Raina to Guptill
+no run
+18.5
+Raina to Guptill
+one runs
+18.6
+Raina to Williamson
+no run
+19.1
+Ashwin to Guptill
+one runs
+19.2
+Ashwin to Williamson
+no run
+19.3
+Ashwin to Williamson
+one runs
+19.4
+Ashwin to Guptill
+no run
+19.5
+Ashwin to Guptill
+no run
+19.6
+Ashwin to Guptill
+no run
+20.1
+Raina to Williamson
+no run
+20.2
+Raina to Williamson
+no run
+20.3
+Raina to Williamson
+six runs
+20.4
+Raina to Williamson
+one runs
+20.5
+Raina to Guptill
+out runs
+20.6
+Raina to Taylor
+one runs
+21.1
+Jadeja to Taylor
+no run
+21.2
+Jadeja to Taylor
+no run
+21.3
+Jadeja to Taylor
+no run
+21.4
+Jadeja to Taylor
+four runs
+21.5
+Jadeja to Taylor
+one runs
+21.6
+Jadeja to Williamson
+one runs
+22.1
+Raina to Williamson
+no run
+22.2
+Raina to Williamson
+one runs
+22.3
+Raina to Taylor
+no run
+22.4
+Raina to Taylor
+one runs
+22.5
+Raina to Williamson
+one runs
+22.6
+Raina to Taylor
+no run
+23.1
+Jadeja to Williamson
+no run
+23.2
+Jadeja to Williamson
+one runs
+23.3
+Jadeja to Taylor
+one runs
+23.4
+Jadeja to Williamson
+no run
+23.5
+Jadeja to Williamson
+one runs
+23.6
+Jadeja to Taylor
+no run
+24.1
+Raina to Williamson
+no run
+24.2
+Raina to Williamson
+one runs
+24.3
+Raina to Taylor
+no run
+24.4
+Raina to Taylor
+one runs
+24.5
+Raina to Williamson
+one runs
+24.6
+Raina to Taylor
+no run
+25.1
+Ashwin to Williamson
+no run
+25.2
+Ashwin to Williamson
+one runs
+25.3
+Ashwin to Taylor
+one runs
+25.4
+Ashwin to Williamson
+one runs
+25.5
+Ashwin to Taylor
+one runs
+25.6
+Ashwin to Williamson
+two runs
+26.1
+Jadeja to Taylor
+no run
+26.2
+Jadeja to Taylor
+two runs
+26.3
+Jadeja to Taylor
+no run
+26.4
+Jadeja to Taylor
+no run
+26.5
+Jadeja to Taylor
+no run
+26.6
+Jadeja to Taylor
+no run
+27.1
+Ashwin to Williamson
+no run
+27.2
+Ashwin to Williamson
+no run
+27.3
+Ashwin to Williamson
+four runs
+27.4
+Ashwin to Williamson
+one runs
+27.5
+Ashwin to Taylor
+no run
+27.6
+Ashwin to Taylor
+four runs
+28.1
+Jadeja to Williamson
+one runs
+28.2
+Jadeja to Taylor
+no run
+28.3
+Jadeja to Taylor
+no run
+28.4
+Jadeja to Taylor
+one runs
+28.5
+Jadeja to Williamson
+no run
+28.6
+Jadeja to Williamson
+one runs
+29.1
+Ashwin to Williamson
+no run
+29.2
+Ashwin to Williamson
+one runs
+29.3
+Ashwin to Taylor
+one runs
+29.4
+Ashwin to Williamson
+one runs
+29.5
+Ashwin to Taylor
+no run
+29.6
+Ashwin to Taylor
+no run
+30.1
+I Sharma to Williamson
+no run
+30.2
+I Sharma to Williamson
+one runs
+30.3
+I Sharma to Taylor
+no run
+30.4
+I Sharma to Taylor
+one runs
+30.5
+I Sharma to Williamson
+one runs
+30.6
+I Sharma to Taylor
+one runs
+31.1
+Ashwin to Taylor
+one runs
+31.2
+Ashwin to Williamson
+one runs
+31.3
+Ashwin to Taylor
+no run
+31.4
+Ashwin to Taylor
+one runs
+31.5
+Ashwin to Williamson
+no run
+31.6
+Ashwin to Williamson
+one runs
+32.1
+I Sharma to Williamson
+no run
+32.2
+I Sharma to Williamson
+one runs
+32.2
+I Sharma to Williamson
+one runs
+32.3
+I Sharma to Taylor
+one runs
+32.4
+I Sharma to Williamson
+one runs
+32.5
+I Sharma to Taylor
+one runs
+32.6
+I Sharma to Williamson
+one runs
+33.1
+Ashwin to Williamson
+one runs
+33.2
+Ashwin to Taylor
+two runs
+33.3
+Ashwin to Taylor
+no run
+33.4
+Ashwin to Taylor
+two runs
+33.5
+Ashwin to Taylor
+one runs
+33.6
+Ashwin to Williamson
+one runs
+34.1
+Jadeja to Williamson
+out runs
+34.2
+Jadeja to Anderson
+no run
+34.3
+Jadeja to Anderson
+four runs
+34.4
+Jadeja to Anderson
+one runs
+34.5
+Jadeja to Taylor
+four runs
+34.6
+Jadeja to Taylor
+four runs
+35.1
+Mohammed Shami to Anderson
+no run
+35.2
+Mohammed Shami to Anderson
+six runs
+35.3
+Mohammed Shami to Anderson
+no run
+35.4
+Mohammed Shami to Anderson
+one runs
+35.4
+Mohammed Shami to Anderson
+one runs
+35.5
+Mohammed Shami to Taylor
+one runs
+35.6
+Mohammed Shami to Anderson
+four runs
+36.1
+Kumar to Taylor
+one runs
+36.2
+Kumar to Anderson
+one runs
+36.3
+Kumar to Taylor
+four runs
+36.4
+Kumar to Taylor
+four runs
+36.5
+Kumar to Taylor
+four runs
+36.6
+Kumar to Taylor
+one runs
+37.1
+Ashwin to Taylor
+one runs
+37.2
+Ashwin to Anderson
+one runs
+37.3
+Ashwin to Taylor
+one runs
+37.3
+Ashwin to Taylor
+one runs
+37.4
+Ashwin to Anderson
+six runs
+37.5
+Ashwin to Anderson
+six runs
+37.6
+Ashwin to Anderson
+one runs
+38.1
+I Sharma to Anderson
+one runs
+38.1
+I Sharma to Anderson
+six runs
+38.2
+I Sharma to Anderson
+one runs
+38.2
+I Sharma to Anderson
+six runs
+38.3
+I Sharma to Anderson
+one runs
+38.4
+I Sharma to Taylor
+one runs
+38.5
+I Sharma to Anderson
+out runs
+38.6
+I Sharma to Taylor
+one runs
+39.1
+Mohammed Shami to Taylor
+one runs
+39.2
+Mohammed Shami to BB McCullum
+out runs
+39.3
+Mohammed Shami to Ronchi
+one runs
+39.4
+Mohammed Shami to Taylor
+out runs
+39.5
+Mohammed Shami to NL McCullum
+no run
+39.6
+Mohammed Shami to NL McCullum
+one runs
+40.1
+Kumar to NL McCullum
+out runs
+40.2
+Kumar to Mills
+one runs
+40.3
+Kumar to Ronchi
+one runs
+40.4
+Kumar to Mills
+one runs
+40.5
+Kumar to Ronchi
+four runs
+40.6
+Kumar to Ronchi
+one runs
+41.1
+Mohammed Shami to Ronchi
+no run
+41.2
+Mohammed Shami to Ronchi
+no run
+41.3
+Mohammed Shami to Ronchi
+no run
+41.4
+Mohammed Shami to Ronchi
+six runs
+41.5
+Mohammed Shami to Ronchi
+four runs
+41.6
+Mohammed Shami to Ronchi
+one runs
+0.1
+Mills to Dhawan
+no run
+0.2
+Mills to Dhawan
+one runs
+0.3
+Mills to RG Sharma
+no run
+0.4
+Mills to RG Sharma
+four runs
+0.5
+Mills to RG Sharma
+no run
+0.6
+Mills to RG Sharma
+no run
+1.1
+McClenaghan to Dhawan
+no run
+1.2
+McClenaghan to Dhawan
+no run
+1.3
+McClenaghan to Dhawan
+no run
+1.4
+McClenaghan to Dhawan
+no run
+1.5
+McClenaghan to Dhawan
+no run
+1.6
+McClenaghan to Dhawan
+no run
+2.1
+Mills to RG Sharma
+no run
+2.2
+Mills to RG Sharma
+no run
+2.3
+Mills to RG Sharma
+no run
+2.4
+Mills to RG Sharma
+no run
+2.5
+Mills to RG Sharma
+no run
+2.6
+Mills to RG Sharma
+no run
+3.1
+McClenaghan to Dhawan
+one runs
+3.2
+McClenaghan to RG Sharma
+no run
+3.3
+McClenaghan to RG Sharma
+no run
+3.4
+McClenaghan to RG Sharma
+no run
+3.5
+McClenaghan to RG Sharma
+no run
+3.6
+McClenaghan to RG Sharma
+no run
+4.1
+Mills to Dhawan
+one runs
+4.2
+Mills to RG Sharma
+no run
+4.3
+Mills to RG Sharma
+one runs
+4.4
+Mills to Dhawan
+no run
+4.5
+Mills to Dhawan
+one runs
+4.6
+Mills to RG Sharma
+one runs
+5.1
+McClenaghan to RG Sharma
+one runs
+5.2
+McClenaghan to Dhawan
+no run
+5.3
+McClenaghan to Dhawan
+no run
+5.4
+McClenaghan to Dhawan
+one runs
+5.4
+McClenaghan to Dhawan
+four runs
+5.5
+McClenaghan to Dhawan
+no run
+5.6
+McClenaghan to Dhawan
+four runs
+6.1
+Mills to RG Sharma
+no run
+6.2
+Mills to RG Sharma
+no run
+6.3
+Mills to RG Sharma
+one runs
+6.4
+Mills to Dhawan
+no run
+6.5
+Mills to Dhawan
+no run
+6.6
+Mills to Dhawan
+no run
+7.1
+Southee to RG Sharma
+no run
+7.2
+Southee to RG Sharma
+one runs
+7.3
+Southee to Dhawan
+no run
+7.4
+Southee to Dhawan
+out runs
+7.5
+Southee to Kohli
+no run
+7.6
+Southee to Kohli
+four runs
+8.1
+Mills to RG Sharma
+no run
+8.2
+Mills to RG Sharma
+no run
+8.3
+Mills to RG Sharma
+six runs
+8.4
+Mills to RG Sharma
+no run
+8.5
+Mills to RG Sharma
+one runs
+8.6
+Mills to Kohli
+no run
+9.1
+Southee to RG Sharma
+no run
+9.2
+Southee to RG Sharma
+four runs
+9.3
+Southee to RG Sharma
+no run
+9.4
+Southee to RG Sharma
+no run
+9.5
+Southee to RG Sharma
+out runs
+9.6
+Southee to Rahane
+one runs
+10.1
+Mills to Rahane
+no run
+10.2
+Mills to Rahane
+one runs
+10.3
+Mills to Kohli
+two runs
+10.4
+Mills to Kohli
+four runs
+10.5
+Mills to Kohli
+one runs
+10.6
+Mills to Rahane
+no run
+11.1
+Southee to Kohli
+no run
+11.2
+Southee to Kohli
+no run
+11.3
+Southee to Kohli
+four runs
+11.4
+Southee to Kohli
+no run
+11.5
+Southee to Kohli
+one runs
+11.6
+Southee to Rahane
+no run
+12.1
+NL McCullum to Kohli
+one runs
+12.2
+NL McCullum to Rahane
+no run
+12.3
+NL McCullum to Rahane
+no run
+12.4
+NL McCullum to Rahane
+no run
+12.5
+NL McCullum to Rahane
+no run
+12.6
+NL McCullum to Rahane
+one runs
+13.1
+Southee to Rahane
+no run
+13.2
+Southee to Rahane
+one runs
+13.3
+Southee to Kohli
+no run
+13.4
+Southee to Kohli
+no run
+13.5
+Southee to Kohli
+six runs
+13.6
+Southee to Kohli
+one runs
+14.1
+NL McCullum to Kohli
+no run
+14.2
+NL McCullum to Kohli
+no run
+14.3
+NL McCullum to Kohli
+two runs
+14.4
+NL McCullum to Kohli
+no run
+14.5
+NL McCullum to Kohli
+one runs
+14.6
+NL McCullum to Rahane
+no run
+15.1
+Southee to Kohli
+one runs
+15.2
+Southee to Rahane
+two runs
+15.3
+Southee to Rahane
+four runs
+15.4
+Southee to Rahane
+one runs
+15.5
+Southee to Kohli
+one runs
+15.6
+Southee to Rahane
+one runs
+16.1
+NL McCullum to Rahane
+four runs
+16.2
+NL McCullum to Rahane
+no run
+16.3
+NL McCullum to Rahane
+one runs
+16.4
+NL McCullum to Kohli
+one runs
+16.4
+NL McCullum to Kohli
+one runs
+16.5
+NL McCullum to Rahane
+one runs
+16.6
+NL McCullum to Kohli
+one runs
+17.1
+Anderson to Kohli
+no run
+17.2
+Anderson to Kohli
+one runs
+17.3
+Anderson to Rahane
+no run
+17.4
+Anderson to Rahane
+two runs
+17.5
+Anderson to Rahane
+no run
+17.6
+Anderson to Rahane
+one runs
+18.1
+NL McCullum to Rahane
+four runs
+18.2
+NL McCullum to Rahane
+no run
+18.3
+NL McCullum to Rahane
+one runs
+18.4
+NL McCullum to Kohli
+one runs
+18.4
+NL McCullum to Kohli
+one runs
+18.4
+NL McCullum to Kohli
+one runs
+18.5
+NL McCullum to Rahane
+no run
+18.6
+NL McCullum to Rahane
+no run
+19.1
+Anderson to Kohli
+one runs
+19.2
+Anderson to Rahane
+one runs
+19.3
+Anderson to Kohli
+one runs
+19.4
+Anderson to Rahane
+four runs
+19.5
+Anderson to Rahane
+one runs
+19.6
+Anderson to Kohli
+one runs
+20.1
+NL McCullum to Kohli
+no run
+20.2
+NL McCullum to Kohli
+one runs
+20.3
+NL McCullum to Rahane
+no run
+20.4
+NL McCullum to Rahane
+one runs
+20.5
+NL McCullum to Kohli
+no run
+20.6
+NL McCullum to Kohli
+one runs
+21.1
+Anderson to Kohli
+two runs
+21.2
+Anderson to Kohli
+four runs
+21.3
+Anderson to Kohli
+one runs
+21.3
+Anderson to Kohli
+no run
+21.4
+Anderson to Kohli
+four runs
+21.5
+Anderson to Kohli
+one runs
+21.6
+Anderson to Rahane
+one runs
+22.1
+NL McCullum to Rahane
+one runs
+22.2
+NL McCullum to Kohli
+one runs
+22.3
+NL McCullum to Rahane
+no run
+22.4
+NL McCullum to Rahane
+one runs
+22.5
+NL McCullum to Kohli
+two runs
+22.6
+NL McCullum to Kohli
+no run
+23.1
+McClenaghan to Rahane
+one runs
+23.2
+McClenaghan to Kohli
+one runs
+23.3
+McClenaghan to Rahane
+no run
+23.4
+McClenaghan to Rahane
+out runs
+23.5
+McClenaghan to Dhoni
+no run
+23.6
+McClenaghan to Dhoni
+one runs
+24.1
+NL McCullum to Dhoni
+one runs
+24.2
+NL McCullum to Kohli
+no run
+24.3
+NL McCullum to Kohli
+no run
+24.4
+NL McCullum to Kohli
+no run
+24.5
+NL McCullum to Kohli
+one runs
+24.6
+NL McCullum to Dhoni
+no run
+25.1
+McClenaghan to Kohli
+no run
+25.2
+McClenaghan to Kohli
+one runs
+25.3
+McClenaghan to Dhoni
+one runs
+25.4
+McClenaghan to Kohli
+two runs
+25.5
+McClenaghan to Kohli
+no run
+25.6
+McClenaghan to Kohli
+four runs
+26.1
+NL McCullum to Dhoni
+no run
+26.2
+NL McCullum to Dhoni
+no run
+26.3
+NL McCullum to Dhoni
+four runs
+26.4
+NL McCullum to Dhoni
+two runs
+26.5
+NL McCullum to Dhoni
+one runs
+26.6
+NL McCullum to Kohli
+one runs
+27.1
+McClenaghan to Kohli
+one runs
+27.2
+McClenaghan to Dhoni
+one runs
+27.3
+McClenaghan to Kohli
+one runs
+27.4
+McClenaghan to Dhoni
+no run
+27.5
+McClenaghan to Dhoni
+no run
+27.6
+McClenaghan to Dhoni
+no run
+28.1
+Anderson to Kohli
+six runs
+28.2
+Anderson to Kohli
+no run
+28.3
+Anderson to Kohli
+two runs
+28.4
+Anderson to Kohli
+no run
+28.5
+Anderson to Kohli
+no run
+28.6
+Anderson to Kohli
+one runs
+29.1
+Southee to Kohli
+one runs
+29.2
+Southee to Dhoni
+one runs
+29.3
+Southee to Kohli
+four runs
+29.4
+Southee to Kohli
+out runs
+29.5
+Southee to Raina
+no run
+29.6
+Southee to Raina
+two runs
+30.1
+Anderson to Dhoni
+one runs
+30.2
+Anderson to Raina
+one runs
+30.2
+Anderson to Raina
+four runs
+30.3
+Anderson to Raina
+one runs
+30.4
+Anderson to Dhoni
+four runs
+30.5
+Anderson to Dhoni
+four runs
+30.6
+Anderson to Dhoni
+one runs
+31.1
+Southee to Dhoni
+one runs
+31.2
+Southee to Raina
+four runs
+31.3
+Southee to Raina
+no run
+31.4
+Southee to Raina
+one runs
+31.5
+Southee to Dhoni
+one runs
+31.6
+Southee to Raina
+one runs
+32.1
+Mills to Raina
+no run
+32.2
+Mills to Raina
+four runs
+32.3
+Mills to Raina
+four runs
+32.4
+Mills to Raina
+one runs
+32.5
+Mills to Dhoni
+one runs
+32.6
+Mills to Raina
+no run
+33.1
+McClenaghan to Dhoni
+no run
+33.2
+McClenaghan to Dhoni
+four runs
+33.3
+McClenaghan to Dhoni
+one runs
+33.4
+McClenaghan to Raina
+one runs
+33.5
+McClenaghan to Dhoni
+one runs
+33.6
+McClenaghan to Raina
+four runs
+34.1
+Mills to Dhoni
+no run
+34.2
+Mills to Dhoni
+one runs
+34.3
+Mills to Raina
+one runs
+34.4
+Mills to Dhoni
+one runs
+34.5
+Mills to Raina
+no run
+34.6
+Mills to Raina
+two runs
+35.1
+McClenaghan to Dhoni
+no run
+35.2
+McClenaghan to Dhoni
+four runs
+35.3
+McClenaghan to Dhoni
+one runs
+35.4
+McClenaghan to Raina
+no run
+35.5
+McClenaghan to Raina
+four runs
+35.6
+McClenaghan to Raina
+one runs
+36.1
+Mills to Raina
+out runs
+36.2
+Mills to Dhoni
+no run
+36.3
+Mills to Dhoni
+one runs
+36.4
+Mills to Jadeja
+six runs
+36.5
+Mills to Jadeja
+one runs
+36.6
+Mills to Dhoni
+two runs
+37.1
+Anderson to Jadeja
+one runs
+37.2
+Anderson to Dhoni
+four runs
+37.3
+Anderson to Dhoni
+four runs
+37.4
+Anderson to Dhoni
+one runs
+37.5
+Anderson to Jadeja
+one runs
+37.6
+Anderson to Dhoni
+no run
+38.1
+Southee to Jadeja
+one runs
+38.2
+Southee to Dhoni
+no run
+38.3
+Southee to Dhoni
+one runs
+38.4
+Southee to Jadeja
+one runs
+38.5
+Southee to Dhoni
+six runs
+38.6
+Southee to Dhoni
+one runs
+39.1
+Anderson to Dhoni
+out runs
+39.2
+Anderson to Jadeja
+one runs
+39.3
+Anderson to Ashwin
+one runs
+39.4
+Anderson to Jadeja
+out runs
+39.5
+Anderson to Kumar
+one runs
+39.6
+Anderson to Ashwin
+no run
+40.1
+Southee to Kumar
+one runs
+40.2
+Southee to Ashwin
+four runs
+40.3
+Southee to Ashwin
+out runs
+40.4
+Southee to Kumar
+four runs
+40.5
+Southee to Kumar
+one runs
+40.5
+Southee to Kumar
+four runs
+40.6
+Southee to Kumar
+one runs
+41.1
+Anderson to Kumar
+out runs
